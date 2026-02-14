@@ -1,3 +1,5 @@
+<img src="banner.svg" width="100%" />
+
 <!--
 **arberzylyftari/arberzylyftari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
