@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arberzylyftari/arberzylyftari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,60 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Arber 👋
+
+Machine Learning Engineer | Full-Stack Developer | AI Systems Builder  
+
+I build intelligent systems that automate workflows, classify data, and solve real-world problems.
+
+---
+
+## 🚀 Current Focus
+- Deep Learning & Computer Vision
+- AI-powered workflow automation (B2B SaaS)
+- Scalable backend systems (Node.js + PostgreSQL)
+
+---
+
+## 🧠 Tech Stack
+
+**Languages:**  
+Python • JavaScript • Java • SQL  
+
+**ML / AI:**  
+TensorFlow • Keras • scikit-learn • Pandas • NumPy  
+
+**Frontend:**  
+React • TailwindCSS  
+
+**Backend:**  
+Node.js • Express • PostgreSQL  
+
+---
+
+## 📊 GitHub Stats
+
+![Arber's GitHub stats](https://github-readme-stats.vercel.app/api?username=arberzylyftari&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arberzylyftari&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Rock Paper Scissors ML
+CNN model trained for image classification.
+
+### 🎮 2048 Game
+Pure JavaScript implementation.
+
+### 🔐 Node Auth App
+Authentication system with backend logic.
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/arber-zylyftari  
+Medium: https://medium.com/@arberzylyftari123
+
