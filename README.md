@@ -20,8 +20,6 @@ Machine Learning Engineer | Full-Stack Developer | AI Systems Builder
 
 I build intelligent systems that automate workflows, classify data, and solve real-world problems.
 
-<img src="banner.svg" width="100%" alt="Arbër Zylyftari banner" />
-
 ---
 
 ## 🚀 Current Focus
