@@ -43,14 +43,6 @@ Node.js • Express • PostgreSQL
 
 ---
 
-## 📊 GitHub Stats
-
-![Arber's GitHub stats](https://github-readme-stats.vercel.app/api?username=arberzylyftari&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arberzylyftari&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Featured Projects
 
 ### 🧠 Rock Paper Scissors ML
