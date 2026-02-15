@@ -149,7 +149,7 @@
 
   <!-- Text block -->
   <g transform="translate(120, 170)">
-    <text class="name" x="0" y="0" fill="#FFFFFF">Arbër Zylyftari</text>
+    <text class="name" x="0" y="0" fill="#FFFFFF">Arber Zylyftari</text>
     <text class="subtitle" x="2" y="48" fill="#67E8F9" fill-opacity="0.95">
       AI Engineer | Machine Learning | Intelligent Systems
     </text>
