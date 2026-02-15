@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Arber 
 
 <h2 align="center">Machine Learning Engineer | Computer Science | AI Systems Builder </h2>
 
