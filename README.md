@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Machine Learning Engineer | Computer Science | AI Systems Builder </h2>
-
-<p align="center">
-Exploring deep learning, model optimization, and intelligent systems through hands-on experimentation.
-</p>
-
----
+# Hi, I'm Arber
 
 ## About Me
 
