@@ -81,10 +81,6 @@ Node.js • Express • PostgreSQL • Git • Linux
 ## Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arberzylyftari&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=arberzylyftari&theme=tokyonight" />
 </p>
 
